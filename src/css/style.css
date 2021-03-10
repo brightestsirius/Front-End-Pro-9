@@ -9,6 +9,13 @@
       display: block;
       margin: 0 auto; }
 
+#task-2 {
+  border-collapse: collapse;
+  margin-bottom: 20px; }
+  #task-2 th, #task-2 td {
+    border: 3px dashed #673ab7;
+    padding: 5px; }
+
 body {
   font-family: "Poppins", sans-serif; }
 

@@ -30,4 +30,11 @@ gulp.task('js',function(done){
 	done();
 })
 
-gulp.task('all', gulp.series('html','images','css','js'));
+gulp.task('json',function(done){
+	gulp
+		.src('src/json/*.json')
+		.pipe(gulp.dest('build/json'));
+	done();
+})
+
+gulp.task('all', gulp.series('html','images','css','js','json'));
