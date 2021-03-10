@@ -5,3 +5,6 @@ console.log(Zeus);
 
 import {Pikachu} from './task-2.js';
 console.log(Pikachu);
+
+import {avanger} from './task-3.js';
+console.log(avanger());
