@@ -1,5 +1,5 @@
 {
-	"Name": "Zeus",
-	"Abode": "Mount Olympus",
-	"Symbols": ["thunderbolt", "eagle", "bull", "oak"]
+	"name": "Zeus",
+	"abode": "Mount Olympus",
+	"symbols": ["thunderbolt", "eagle", "bull", "oak"]
 }
