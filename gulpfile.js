@@ -1,8 +1,10 @@
 let gulp = require('gulp');
+let gulp_rigger = require('gulp-rigger');
 
 gulp.task('html',function(resolve){
 	gulp
 		.src(['src/index.html'])
+		.pipe(gulp_rigger())
 		.pipe(gulp.dest('build/'));
 	resolve();
 })
