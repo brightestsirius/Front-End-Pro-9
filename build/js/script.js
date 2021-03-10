@@ -8,3 +8,6 @@ console.log(Pikachu);
 
 import {avanger} from './task-3.js';
 console.log(avanger());
+
+import {Alisa} from './script-4.js';
+console.log(Alisa);
