@@ -11,3 +11,6 @@ console.log(avanger());
 
 import {Alisa} from './script-4.js';
 console.log(Alisa);
+
+import {Sherlock} from './task-6.js';
+console.log(Sherlock);
