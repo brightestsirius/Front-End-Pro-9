@@ -17,3 +17,7 @@ console.log(Sherlock);
 
 import {Snake} from './task-11.js';
 console.log(Snake);
+
+import {IronMan} from './task-13.js';
+console.log(IronMan);
+
