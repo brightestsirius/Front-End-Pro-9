@@ -1,7 +1,6 @@
 {
   "name": "27",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rigger": "^0.5.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightestsirius/Front-End-Pro-9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brightestsirius/Front-End-Pro-9/issues"
+  },
+  "homepage": "https://github.com/brightestsirius/Front-End-Pro-9#readme",
+  "description": ""
 }
