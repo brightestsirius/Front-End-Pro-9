@@ -12,6 +12,9 @@ console.log(avanger());
 import {Alisa} from './script-4.js';
 console.log(Alisa);
 
+import {Rick} from './task-5.js';
+console.log(Rick);
+
 import {Sherlock} from './task-6.js';
 console.log(Sherlock);
 
