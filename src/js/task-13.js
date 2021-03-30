@@ -8,7 +8,7 @@ class Hero{
 	}
 
   async getInfo(){
-		let request = await fetch('./json/iron_man.json'),
+		let request = await fetch('./json/ironman.json'),
 			json = await request.json();
 
 		this.setInfo(json);
