@@ -1,0 +1,11 @@
+{
+    "Name": "Junior Developer",
+    "City": "Lviv",
+    "Skills": [
+        "Asking Questions",
+        "Using console despite the existence of debugger",
+        "Turning every bug into new feature with more bugs"
+        ],
+    "Motto": "It’s not a bug. It’s an undocumented feature!"
+
+}
