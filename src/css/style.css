@@ -19,6 +19,18 @@
 #cat-table {
   border: 2px solid red; }
 
+  #task-5 {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+    #task-5 th, #task-5 td {
+      border: 1px solid green;
+      text-align: left;
+      padding: 8px; }
+      #task-5 th img, #task-5 td img {
+        display: block;
+        margin: 0 auto; }
+
 #task-6 {
   border-collapse: collapse;
   margin-bottom: 20px; }
