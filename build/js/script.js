@@ -26,3 +26,6 @@ console.log(Snake);
 
 import {Crazyfrog} from './task-12.js';
 console.log(Crazyfrog);
+
+import {IronMan} from './task-13.js';
+console.log(IronMan);
