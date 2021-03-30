@@ -19,6 +19,39 @@
 #cat-table {
   border: 2px solid red; }
 
+#task-6 {
+  border-collapse: collapse;
+  margin-bottom: 20px; }
+  #task-6 th, #task-6 td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px; }
+    #task-6 th img, #task-6 td img {
+      display: block;
+      margin: 0 auto; }
+
+#task-7 {
+  border-collapse: collapse;
+  margin-bottom: 20px; }
+  #task-7 th, #task-7 td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px; }
+    #task-7 th img, #task-7 td img {
+      display: block;
+      margin: 0 auto; }
+
+#task-10 {
+  border-collapse: collapse;
+  margin-bottom: 20px; }
+  #task-10 th, #task-10 td {
+    border: 1px solid red;
+    text-align: left;
+    padding: 8px; }
+    #task-10 th img, #task-10 td img {
+      display: block;
+      margin: 0 auto; }
+
 #task-11 {
   border-collapse: collapse;
   margin-bottom: 20px; }
