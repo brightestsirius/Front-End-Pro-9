@@ -15,11 +15,14 @@ console.log(Alisa);
 import {Sherlock} from './task-6.js';
 console.log(Sherlock);
 
-import {Snake} from './task-11.js';
-console.log(Snake);
+import {Superman} from './task-7.js';
+console.log(Superman);
 
 import {JunDev} from './task-10.js';
 console.log(JunDev);
 
-import {Superman} from './task-7.js';
-console.log(Superman);
+import {Snake} from './task-11.js';
+console.log(Snake);
+
+import {Crazyfrog} from './task-12.js';
+console.log(Crazyfrog);

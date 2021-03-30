@@ -19,14 +19,14 @@
 #cat-table {
   border: 2px solid red; }
 
-#task-11 {
+#task-6 {
   border-collapse: collapse;
   margin-bottom: 20px; }
-  #task-11 th, #task-11 td {
-    border: 1px solid red;
+  #task-6 th, #task-6 td {
+    border: 1px solid black;
     text-align: left;
     padding: 8px; }
-    #task-11 th img, #task-11 td img {
+    #task-6 th img, #task-6 td img {
       display: block;
       margin: 0 auto; }
 
@@ -52,14 +52,14 @@
       display: block;
       margin: 0 auto; }
 
-#task-6 {
+#task-11 {
   border-collapse: collapse;
   margin-bottom: 20px; }
-  #task-6 th, #task-6 td {
-    border: 1px solid black;
+  #task-11 th, #task-11 td {
+    border: 1px solid red;
     text-align: left;
     padding: 8px; }
-    #task-6 th img, #task-6 td img {
+    #task-11 th img, #task-11 td img {
       display: block;
       margin: 0 auto; }
 
